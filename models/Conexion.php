@@ -6,9 +6,9 @@ use PDO;
 use PDOException;
 
 class Conexion{
-    public static $user="root";
-    public static $pass="";
-    public static $URL="mysql:host=localhost;dbname=applink";
+    public static $user="u0a8gx0fo3vx0f4w";
+    public static $pass="w5xjEIs5DkBpEi5Ab98H";
+    public static $URL="mysql:host=byocusmhxphlnbdfj4x8-mysql.services.clever-cloud.com;dbname=byocusmhxphlnbdfj4x8";
 
     public static function conector(){
         try{
